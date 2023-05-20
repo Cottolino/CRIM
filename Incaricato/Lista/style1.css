@@ -1,0 +1,36 @@
+.tab
+{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+}
+.riga
+{
+    display: flex;
+    flex-direction: row;
+}
+.item
+{
+    width: 25%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 35px;
+    /* border: 1px solid black; */
+}
+label
+{
+    font-weight: bold;
+}
+
+/* .item a
+{
+    font-size: 35px;
+} */
+
+/* .item:hover
+{
+    background-color: grey;
+} */
+
